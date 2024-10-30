@@ -1,0 +1,21 @@
+{
+  "name": "soccer-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/p5": "1.7.6",
+    "@types/three": "0.103.2",
+    "p5": "1.11.0",
+    "three": "0.110.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
